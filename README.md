@@ -1,5 +1,7 @@
 # EasyButton
-Android library to easily create buttons of different shapes, backgrounds and shadow effects.
+Android library to quickly create buttons of different shapes, strokes, background and shadow effects.
+EasyButton extends the androidx AppCompatButton and provides additional layout attributes to create desired button type and helps in minimizing the number of Drawable  xml files required for each type of button thus also contributing in code cleanup.
+It renders/draws all background effects in a single optimized custom Drawable which is created at runtime during construction of the button view.
 
 ## Integration
 ### Gradle
