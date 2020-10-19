@@ -16,3 +16,6 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency to your app level build.gradle
   
     implementation 'com.github.rishirajput:EasyButton:Tag'
+
+For Maven, sbt and leiningen
+https://jitpack.io/#rishirajput/EasyButton
