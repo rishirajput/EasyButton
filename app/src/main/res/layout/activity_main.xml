@@ -6,4 +6,24 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <com.rishirajput.easybutton.EasyButton
+        android:id="@+id/easyButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="@string/easy_button"
+        android:textColor="@android:color/white"
+        app:backgroundShape="rectangle"
+        app:backgroundType="gradient"
+        app:cornerRadius="40dp"
+        app:defaultBackGroundColorBottom="@android:color/holo_red_dark"
+        app:defaultBackGroundColorTop="@android:color/holo_red_light"
+        app:pressedBackGroundColorBottom="@android:color/holo_red_light"
+        app:pressedBackGroundColorTop="@android:color/holo_red_dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
