@@ -1,2 +1,2 @@
 # EasyButton
-Android library to extend button customizations
+Android library to easily create buttons of different shapes, backgrounds and shadow effects.
