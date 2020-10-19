@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EasyButton">
+        <attr name="backgroundShape" format="enum">
+            <enum name="circle" value="0" />
+            <enum name="rectangle" value="1" />
+        </attr>
+        <attr name="backgroundType" format="enum">
+            <enum name="solid" value="0" />
+            <enum name="gradient" value="1" />
+        </attr>
+        <attr name="enableShadow" format="boolean" />
+        <attr name="enableStroke" format="boolean" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="strokeSize" format="dimension" />
+        <attr name="pressedBackGroundColor" format="color"/>
+        <attr name="defaultBackGroundColor" format="color"/>
+        <attr name="pressedBackGroundColorTop" format="color"/>
+        <attr name="pressedBackGroundColorBottom" format="color"/>
+        <attr name="defaultBackGroundColorTop" format="color"/>
+        <attr name="defaultBackGroundColorBottom" format="color"/>
+
+    </declare-styleable>
+
+</resources>
