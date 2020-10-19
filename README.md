@@ -18,10 +18,11 @@ Step 2. Add the dependency to your app level build.gradle
     implementation 'com.github.rishirajput:EasyButton:1.0.0'
 
 For Maven, sbt and leiningen
-https://jitpack.io/#rishirajput/EasyButton
+https://jitpack.io/#rishirajput/EasyButton   
 
+Usage:  
 ![alt text](https://github.com/rishirajput/EasyButton/blob/master/easy_button_sample.PNG?raw=true)
-Usage:
+
 ```xml
 <com.rishirajput.easybutton.EasyButton
 	android:id="@+id/easyButton"
