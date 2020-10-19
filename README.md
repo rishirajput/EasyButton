@@ -21,6 +21,7 @@ For Maven, sbt and leiningen
 https://jitpack.io/#rishirajput/EasyButton
 
 Usage:
+![alt text](https://github.com/rishirajput/EasyButton/blob/master/easy_button_sample.PNG?raw=true)
 ```xml
 <com.rishirajput.easybutton.EasyButton
 	android:id="@+id/easyButton"
