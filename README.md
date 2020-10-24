@@ -23,7 +23,7 @@ For Maven, sbt and leiningen
 https://jitpack.io/#rishirajput/EasyButton   
 
 ## Usage:  
-![alt text](https://github.com/rishirajput/EasyButton/blob/master/easy_button_sample.PNG?raw=true)
+
 
 ```xml
 <com.rishirajput.easybutton.EasyButton
@@ -41,3 +41,6 @@ https://jitpack.io/#rishirajput/EasyButton
 	app:pressedBackGroundColorBottom="@android:color/holo_red_light"
 	app:pressedBackGroundColorTop="@android:color/holo_red_dark"/>
 ```
+![alt text](https://github.com/rishirajput/EasyButton/blob/master/sample_images/easy_button_sample.PNG?raw=true)
+![alt text](https://github.com/rishirajput/EasyButton/blob/master/sample_images/easy_button_sample_2.PNG?raw=true)
+![alt text](https://github.com/rishirajput/EasyButton/blob/master/sample_images/easy_button_sample_3.PNG?raw=true)
